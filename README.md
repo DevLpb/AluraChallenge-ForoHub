@@ -2,7 +2,7 @@
 
 Este repositorio está dedicado al proyecto desafío de Alura. En este proyecto, se ponen a prueba las habilidades creando una API Rest capaz de crear, leer, actualizar y borrar tópicos.
 
-##Descripción del proyecto
+## Descripción del proyecto
 El objetivo de este proyecto es desarrollar una API Rest que permita a los usuarios gestionar tópicos. Los usuarios podrán crear nuevos tópicos, leer información existente, actualizar detalles y eliminar tópicos según sea necesario.
 
 ## El proyecto utiliza las siguientes tecnologías:
